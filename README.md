@@ -11,6 +11,7 @@ npm install @playwright/test
 npx playwright install
 ````
 This is for setup the playwright.
+
 2. Then for run steps, type:
 ````
 npx playwright test --headed
